@@ -4,6 +4,7 @@ package pack;
 
 public class Main {
     public static void main(String[] args) {
+//TODO реализивать проверки в методах Fraction
 
         Fraction testF = new Fraction(2, 6);
         Fraction f = new Fraction(1, 2);
